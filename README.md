@@ -1,3 +1,3 @@
 # Wallbreakers_hw
 
-Repository about HW provided during the Wallbreakers cohort
+Repository created for the HW assigned during the Wallbreakers cohort
